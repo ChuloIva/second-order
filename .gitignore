@@ -1,0 +1,16 @@
+# logs and run output
+*.log
+
+# activation caches (large)
+*.pt
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# private notes
+CONCLUSIONS_lazarus.md
+tweet-images/
+
+.DS_Store
